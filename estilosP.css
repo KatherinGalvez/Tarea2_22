@@ -1,0 +1,14 @@
+body{
+   margin: auto;
+   padding: 60px 0;
+   width: 90%;
+   max-width: 1000;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background: url(co.jpg);
+     
+}
+
+h1{
+    font-family: 'Charm', cursive;
+    

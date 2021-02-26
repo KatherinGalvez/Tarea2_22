@@ -1,0 +1,15 @@
+body{
+    font-family: 'Shippori Mincho', serif;
+    margin: auto;
+    padding: 60px 0;
+    background: url(a.jpg);
+    background-size: cover;
+    background-position: center; 
+    width: 90%;
+    max-width: 1000px;
+    
+}
+
+
+
+
